@@ -502,7 +502,7 @@ textarea:focus {
   background-color: white;
 }
 
-.fusion-swimmingly-colors-pink input.form-submit {
+.fusion-dlatino-colors-pink input.form-submit {
   display: block;
   font-size: 16px;
   line-height: 22px;
@@ -519,14 +519,14 @@ textarea:focus {
   text-align: center;
   padding: 7.5px 15px;
 }
-.fusion-swimmingly-colors-pink input.form-submit:visited {
+.fusion-dlatino-colors-pink input.form-submit:visited {
   background-color: #d07fb4;
 }
-.fusion-swimmingly-colors-pink input.form-submit:active, .fusion-swimmingly-colors-pink input.form-submit:hover {
+.fusion-dlatino-colors-pink input.form-submit:active, .fusion-dlatino-colors-pink input.form-submit:hover {
   background-color: #853168;
 }
 
-.fusion-swimmingly-colors-yellow input.form-submit {
+.fusion-dlatino-colors-yellow input.form-submit {
   display: block;
   font-size: 16px;
   line-height: 22px;
@@ -543,14 +543,14 @@ textarea:focus {
   text-align: center;
   padding: 7.5px 15px;
 }
-.fusion-swimmingly-colors-yellow input.form-submit:visited {
+.fusion-dlatino-colors-yellow input.form-submit:visited {
   background-color: #fbe1a2;
 }
-.fusion-swimmingly-colors-yellow input.form-submit:active, .fusion-swimmingly-colors-yellow input.form-submit:hover {
+.fusion-dlatino-colors-yellow input.form-submit:active, .fusion-dlatino-colors-yellow input.form-submit:hover {
   background-color: #f3b310;
 }
 
-.fusion-swimmingly-colors-green input.form-submit {
+.fusion-dlatino-colors-green input.form-submit {
   display: block;
   font-size: 16px;
   line-height: 22px;
@@ -567,14 +567,14 @@ textarea:focus {
   text-align: center;
   padding: 7.5px 15px;
 }
-.fusion-swimmingly-colors-green input.form-submit:visited {
+.fusion-dlatino-colors-green input.form-submit:visited {
   background-color: #c2cb92;
 }
-.fusion-swimmingly-colors-green input.form-submit:active, .fusion-swimmingly-colors-green input.form-submit:hover {
+.fusion-dlatino-colors-green input.form-submit:active, .fusion-dlatino-colors-green input.form-submit:hover {
   background-color: #7a843f;
 }
 
-.fusion-swimmingly-colors-gray input.form-submit {
+.fusion-dlatino-colors-gray input.form-submit {
   display: block;
   font-size: 16px;
   line-height: 22px;
@@ -591,10 +591,10 @@ textarea:focus {
   text-align: center;
   padding: 7.5px 15px;
 }
-.fusion-swimmingly-colors-gray input.form-submit:visited {
+.fusion-dlatino-colors-gray input.form-submit:visited {
   background-color: #efeeeb;
 }
-.fusion-swimmingly-colors-gray input.form-submit:active, .fusion-swimmingly-colors-gray input.form-submit:hover {
+.fusion-dlatino-colors-gray input.form-submit:active, .fusion-dlatino-colors-gray input.form-submit:hover {
   background-color: #a9a497;
 }
 
@@ -793,7 +793,7 @@ table tr td:last-child {
 
 /*Basic styles for color options*/
 /*link sytles*/
-.fusion-swimmingly-colors-pink.fusion-swimmingly-links-bigbutton .inner .content a {
+.fusion-dlatino-colors-pink.fusion-dlatino-links-bigbutton .inner .content a {
   display: block;
   font-size: 16px;
   line-height: 22px;
@@ -810,14 +810,14 @@ table tr td:last-child {
   text-align: center;
   padding: 7.5px 15px;
 }
-.fusion-swimmingly-colors-pink.fusion-swimmingly-links-bigbutton .inner .content a:visited {
+.fusion-dlatino-colors-pink.fusion-dlatino-links-bigbutton .inner .content a:visited {
   background-color: #d07fb4;
 }
-.fusion-swimmingly-colors-pink.fusion-swimmingly-links-bigbutton .inner .content a:active, .fusion-swimmingly-colors-pink.fusion-swimmingly-links-bigbutton .inner .content a:hover {
+.fusion-dlatino-colors-pink.fusion-dlatino-links-bigbutton .inner .content a:active, .fusion-dlatino-colors-pink.fusion-dlatino-links-bigbutton .inner .content a:hover {
   background-color: #853168;
 }
 
-.fusion-swimmingly-colors-green.fusion-swimmingly-links-bigbutton .inner .content a {
+.fusion-dlatino-colors-green.fusion-dlatino-links-bigbutton .inner .content a {
   display: block;
   font-size: 16px;
   line-height: 22px;
@@ -834,14 +834,14 @@ table tr td:last-child {
   text-align: center;
   padding: 7.5px 15px;
 }
-.fusion-swimmingly-colors-green.fusion-swimmingly-links-bigbutton .inner .content a:visited {
+.fusion-dlatino-colors-green.fusion-dlatino-links-bigbutton .inner .content a:visited {
   background-color: #c2cb92;
 }
-.fusion-swimmingly-colors-green.fusion-swimmingly-links-bigbutton .inner .content a:active, .fusion-swimmingly-colors-green.fusion-swimmingly-links-bigbutton .inner .content a:hover {
+.fusion-dlatino-colors-green.fusion-dlatino-links-bigbutton .inner .content a:active, .fusion-dlatino-colors-green.fusion-dlatino-links-bigbutton .inner .content a:hover {
   background-color: #7a843f;
 }
 
-.fusion-swimmingly-colors-yellow.fusion-swimmingly-links-bigbutton .inner .content a {
+.fusion-dlatino-colors-yellow.fusion-dlatino-links-bigbutton .inner .content a {
   display: block;
   font-size: 16px;
   line-height: 22px;
@@ -858,14 +858,14 @@ table tr td:last-child {
   text-align: center;
   padding: 7.5px 15px;
 }
-.fusion-swimmingly-colors-yellow.fusion-swimmingly-links-bigbutton .inner .content a:visited {
+.fusion-dlatino-colors-yellow.fusion-dlatino-links-bigbutton .inner .content a:visited {
   background-color: #fbe1a2;
 }
-.fusion-swimmingly-colors-yellow.fusion-swimmingly-links-bigbutton .inner .content a:active, .fusion-swimmingly-colors-yellow.fusion-swimmingly-links-bigbutton .inner .content a:hover {
+.fusion-dlatino-colors-yellow.fusion-dlatino-links-bigbutton .inner .content a:active, .fusion-dlatino-colors-yellow.fusion-dlatino-links-bigbutton .inner .content a:hover {
   background-color: #f3b310;
 }
 
-.fusion-swimmingly-colors-blue.fusion-swimmingly-links-bigbutton .inner .content a {
+.fusion-dlatino-colors-blue.fusion-dlatino-links-bigbutton .inner .content a {
   display: block;
   font-size: 16px;
   line-height: 22px;
@@ -882,14 +882,14 @@ table tr td:last-child {
   text-align: center;
   padding: 7.5px 15px;
 }
-.fusion-swimmingly-colors-blue.fusion-swimmingly-links-bigbutton .inner .content a:visited {
+.fusion-dlatino-colors-blue.fusion-dlatino-links-bigbutton .inner .content a:visited {
   background-color: #73a3bc;
 }
-.fusion-swimmingly-colors-blue.fusion-swimmingly-links-bigbutton .inner .content a:active, .fusion-swimmingly-colors-blue.fusion-swimmingly-links-bigbutton .inner .content a:hover {
+.fusion-dlatino-colors-blue.fusion-dlatino-links-bigbutton .inner .content a:active, .fusion-dlatino-colors-blue.fusion-dlatino-links-bigbutton .inner .content a:hover {
   background-color: #305365;
 }
 
-.fusion-swimmingly-colors-gray.fusion-swimmingly-links-bigbutton .inner .content a {
+.fusion-dlatino-colors-gray.fusion-dlatino-links-bigbutton .inner .content a {
   display: block;
   font-size: 16px;
   line-height: 22px;
@@ -906,132 +906,132 @@ table tr td:last-child {
   text-align: center;
   padding: 7.5px 15px;
 }
-.fusion-swimmingly-colors-gray.fusion-swimmingly-links-bigbutton .inner .content a:visited {
+.fusion-dlatino-colors-gray.fusion-dlatino-links-bigbutton .inner .content a:visited {
   background-color: #efeeeb;
 }
-.fusion-swimmingly-colors-gray.fusion-swimmingly-links-bigbutton .inner .content a:active, .fusion-swimmingly-colors-gray.fusion-swimmingly-links-bigbutton .inner .content a:hover {
+.fusion-dlatino-colors-gray.fusion-dlatino-links-bigbutton .inner .content a:active, .fusion-dlatino-colors-gray.fusion-dlatino-links-bigbutton .inner .content a:hover {
   background-color: #a9a497;
 }
 
 /*page background styles*/
-body.fusion-swimmingly-crowd-background {
+body.fusion-dlatino-crowd-background {
   background: #ccc9c1 url(../images/backgrounds/crowd.png) repeat-x center top;
 }
 
-.fusion-swimmingly-city-night-background {
+.fusion-dlatino-city-night-background {
   background: #ccc9c1 url(../images/backgrounds/city-at-night.png) repeat-x center top;
 }
 
-.fusion-swimmingly-subway-map-background {
+.fusion-dlatino-subway-map-background {
   background: #ccc9c1 url(../images/backgrounds/subway-map.png) no-repeat center top;
 }
 
-.fusion-swimmingly-future-city-background {
+.fusion-dlatino-future-city-background {
   background: #ccc9c1 url(../images/backgrounds/future-city.png) repeat-x center top;
 }
 
-.fusion-swimmingly-conference-center-background {
+.fusion-dlatino-conference-center-background {
   background: #ccc9c1 url(../images/backgrounds/conference-center.png) no-repeat center top;
 }
 
-.block.fusion-swimmingly-colors-yellow.fusion-swimmingly-trans-background {
+.block.fusion-dlatino-colors-yellow.fusion-dlatino-trans-background {
   background-color: rgba(247, 202, 89, 0.6);
 }
 
-.block.fusion-swimmingly-colors-pink.fusion-swimmingly-trans-background {
+.block.fusion-dlatino-colors-pink.fusion-dlatino-trans-background {
   background-color: rgba(187, 71, 147, 0.6);
 }
 
-.block.fusion-swimmingly-colors-green.fusion-swimmingly-trans-background {
+.block.fusion-dlatino-colors-green.fusion-dlatino-trans-background {
   background-color: rgba(165, 178, 94, 0.6);
 }
 
-.block.fusion-swimmingly-colors-blue.fusion-swimmingly-trans-background {
+.block.fusion-dlatino-colors-blue.fusion-dlatino-trans-background {
   background-color: rgba(73, 126, 153, 0.6);
 }
 
-.block.fusion-swimmingly-colors-gray.fusion-swimmingly-trans-background {
+.block.fusion-dlatino-colors-gray.fusion-dlatino-trans-background {
   background-color: rgba(204, 201, 193, 0.6);
 }
 
-.block.fusion-swimmingly-trans-background {
+.block.fusion-dlatino-trans-background {
   background-color: rgba(255, 255, 255, 0.6);
 }
 
-.fusion-swimmingly-colors-pink.fusion-swimmingly-overhang-right-title .inner h2.title,
-.fusion-swimmingly.colors-pink.fusion-swimmingly-overhang-left-title .inner h2.title,
-.block.fusion-swimmingly-colors-pink.fusion-swimmingly-overhang-right,
-.block.fusion-swimmingly-colors-pink.fusion-swimmingly-overhang-left {
+.fusion-dlatino-colors-pink.fusion-dlatino-overhang-right-title .inner h2.title,
+.fusion-dlatino.colors-pink.fusion-dlatino-overhang-left-title .inner h2.title,
+.block.fusion-dlatino-colors-pink.fusion-dlatino-overhang-right,
+.block.fusion-dlatino-colors-pink.fusion-dlatino-overhang-left {
   background: #bb4793;
   color: #f0efed;
 }
 
-.fusion-swimmingly-colors-yellow.fusion-swimmingly-overhang-right-title .inner h2.title,
-.fusion-swimmingly-colors-yellow.fusion-swimmingly-overhang-left-title .inner h2.title,
-.block.fusion-swimmingly-colors-yellow.fusion-swimmingly-overhang-right,
-.block.fusion-swimmingly-colors-yellow.fusion-swimmingly-overhang-left {
+.fusion-dlatino-colors-yellow.fusion-dlatino-overhang-right-title .inner h2.title,
+.fusion-dlatino-colors-yellow.fusion-dlatino-overhang-left-title .inner h2.title,
+.block.fusion-dlatino-colors-yellow.fusion-dlatino-overhang-right,
+.block.fusion-dlatino-colors-yellow.fusion-dlatino-overhang-left {
   background: #f7ca59;
   color: #4a4844;
 }
 
-.fusion-swimmingly-colors-blue.fusion-swimmingly-overhang-right-title .inner h2.title,
-.fusion-swimmingly-colors-blue.fusion-swimmingly-overhang-left-title .inner h2.title,
-.block.fusion-swimmingly-colors-blue.fusion-swimmingly-overhang-right,
-.block.fusion-swimmingly-colors-blue.fusion-swimmingly-overhang-left {
+.fusion-dlatino-colors-blue.fusion-dlatino-overhang-right-title .inner h2.title,
+.fusion-dlatino-colors-blue.fusion-dlatino-overhang-left-title .inner h2.title,
+.block.fusion-dlatino-colors-blue.fusion-dlatino-overhang-right,
+.block.fusion-dlatino-colors-blue.fusion-dlatino-overhang-left {
   background: #497e99;
   color: #f0efed;
 }
 
-.fusion-swimmingly-colors-green.fusion-swimmingly-overhang-right-title .inner h2.title,
-.fusion-swimmingly-colors-green.fusion-swimmingly-overhang-left-title .inner h2.title,
-.block.fusion-swimmingly-colors-green.fusion-swimmingly-overhang-right,
-.block.fusion-swimmingly-colors-green.fusion-swimmingly-overhang-left {
+.fusion-dlatino-colors-green.fusion-dlatino-overhang-right-title .inner h2.title,
+.fusion-dlatino-colors-green.fusion-dlatino-overhang-left-title .inner h2.title,
+.block.fusion-dlatino-colors-green.fusion-dlatino-overhang-right,
+.block.fusion-dlatino-colors-green.fusion-dlatino-overhang-left {
   background: #a5b25e;
   color: #f0efed;
 }
 
-.fusion-swimmingly-colors-gray.fusion-swimmingly-overhang-right-title .inner h2.title,
-.fusion-swimmingly-colors-gray.fusion-swimmingly-overhang-left-title .inner h2.title,
-.block.fusion-swimmingly-colors-gray.fusion-swimmingly-overhang-right,
-.block.fusion-swimmingly-colors-gray.fusion-swimmingly-overhang-left {
+.fusion-dlatino-colors-gray.fusion-dlatino-overhang-right-title .inner h2.title,
+.fusion-dlatino-colors-gray.fusion-dlatino-overhang-left-title .inner h2.title,
+.block.fusion-dlatino-colors-gray.fusion-dlatino-overhang-right,
+.block.fusion-dlatino-colors-gray.fusion-dlatino-overhang-left {
   background: #ccc9c1;
   color: #f0efed;
 }
 
-.fusion-swimmingly-overhang-right-title .inner h2.title a,
-.fusion-swimmingly-overhang-left-title .inner h2.title a,
-.fusion-swimmingly-colors-yellow.fusion-swimmingly-overhang-right-title .inner h2.title,
-.fusion-swimmingly-colors-yellow.fusion-swimmingly-overhang-left-title .inner h2.title,
-.block.fusion-swimmingly-overhang-right .content a,
-.block.fusion-swimmingly-colors-yellow.fusion-swimmingly-overhang-right .content a,
-.block.fusion-swimmingly-overhang-left .content a,
-.block.fusion-swimmingly-colors-yellow.fusion-swimmingly-overhang-left .content a {
+.fusion-dlatino-overhang-right-title .inner h2.title a,
+.fusion-dlatino-overhang-left-title .inner h2.title a,
+.fusion-dlatino-colors-yellow.fusion-dlatino-overhang-right-title .inner h2.title,
+.fusion-dlatino-colors-yellow.fusion-dlatino-overhang-left-title .inner h2.title,
+.block.fusion-dlatino-overhang-right .content a,
+.block.fusion-dlatino-colors-yellow.fusion-dlatino-overhang-right .content a,
+.block.fusion-dlatino-overhang-left .content a,
+.block.fusion-dlatino-colors-yellow.fusion-dlatino-overhang-left .content a {
   color: #497e99;
 }
 
-.fusion-swimmingly-colors-pink.fusino-swimmingly-overhang-right-title .inner h2.title a,
-.fusion-swimmingly-colors-pink.fusion-swimmingly-overhang-left-title .inner h2.title a,
-.fusion-swimmingly-colors-blue.fusion-swimmingly-overhang-right-title .inner h2.title a,
-.fusion-swimmingly-colors-blue.fusion-swimmingly-overhang-left-title .inner h2.title a,
-.fusion-swimmingly-colors-green.fusino-swimmingly-overhang-right-title .inner h2.title a,
-.fusion-swimmingly-colors-green.fusion-swimmingly-overhang-left-title .inner h2.title a,
-.fusion-swimmingly-colors-gray.fusino-swimmingly-overhang-right-title .inner h2.title a,
-.fusion-swimmingly-colors-gray.fusion-swimmingly-overhang-left-title .inner h2.title a {
+.fusion-dlatino-colors-pink.fusino-dlatino-overhang-right-title .inner h2.title a,
+.fusion-dlatino-colors-pink.fusion-dlatino-overhang-left-title .inner h2.title a,
+.fusion-dlatino-colors-blue.fusion-dlatino-overhang-right-title .inner h2.title a,
+.fusion-dlatino-colors-blue.fusion-dlatino-overhang-left-title .inner h2.title a,
+.fusion-dlatino-colors-green.fusino-dlatino-overhang-right-title .inner h2.title a,
+.fusion-dlatino-colors-green.fusion-dlatino-overhang-left-title .inner h2.title a,
+.fusion-dlatino-colors-gray.fusino-dlatino-overhang-right-title .inner h2.title a,
+.fusion-dlatino-colors-gray.fusion-dlatino-overhang-left-title .inner h2.title a {
   color: #f7ca59;
 }
 
-.block.fusion-swimmingly-colors-pink.fusion-swimmingly-overhang-right .content a,
-.block.fusion-swimmingly-colors-blue.fusion-swimmingly-overhang-right .content a,
-.block.fusion-swimmingly-colors-green.fusion-swimmingly-overhang-right .content a,
-.block.fusion-swimmingly-colors-gray.fusion-swimmingly-overhang-right .content a,
-.block.fusion-swimmingly-colors-pink.fusion-swimmingly-overhang-left .content a,
-.block.fusion-swimmingly-colors-blue.fusion-swimmingly-overhang-left .content a,
-.block.fusion-swimmingly-colors-green.fusion-swimmingly-overhang-left .content a,
-.block.fusion-swimmingly-colors-gray.fusion-swimmingly-overhang-left .content a {
+.block.fusion-dlatino-colors-pink.fusion-dlatino-overhang-right .content a,
+.block.fusion-dlatino-colors-blue.fusion-dlatino-overhang-right .content a,
+.block.fusion-dlatino-colors-green.fusion-dlatino-overhang-right .content a,
+.block.fusion-dlatino-colors-gray.fusion-dlatino-overhang-right .content a,
+.block.fusion-dlatino-colors-pink.fusion-dlatino-overhang-left .content a,
+.block.fusion-dlatino-colors-blue.fusion-dlatino-overhang-left .content a,
+.block.fusion-dlatino-colors-green.fusion-dlatino-overhang-left .content a,
+.block.fusion-dlatino-colors-gray.fusion-dlatino-overhang-left .content a {
   color: #f7ca59;
 }
 
-.block.fusion-swimmingly-overhang-left {
+.block.fusion-dlatino-overhang-left {
   position: relative;
   z-index: 99;
   background: white;
@@ -1043,7 +1043,7 @@ body.fusion-swimmingly-crowd-background {
   color: #4a4844;
 }
 
-.block.fusion-swimmingly-overhang-right {
+.block.fusion-dlatino-overhang-right {
   position: relative;
   z-index: 99;
   background: white;
@@ -1055,11 +1055,11 @@ body.fusion-swimmingly-crowd-background {
   color: #4a4844;
 }
 
-.block.fusion-swimmingly-overhang-left-title {
+.block.fusion-dlatino-overhang-left-title {
   overflow: visible;
 }
 
-.fusion-swimmingly-overhang-left-title .inner h2.title {
+.fusion-dlatino-overhang-left-title .inner h2.title {
   position: relative;
   z-index: 99;
   margin-left: -22.5px;
@@ -1071,7 +1071,7 @@ body.fusion-swimmingly-crowd-background {
   padding: 7.5px 0 7.5px 15px;
 }
 
-.fusion-swimmingly-overhang-right-title .inner h2.title {
+.fusion-dlatino-overhang-right-title .inner h2.title {
   position: relative;
   z-index: 99;
   margin-right: -22.5px;
@@ -1083,11 +1083,11 @@ body.fusion-swimmingly-crowd-background {
   padding: 7.5px 15px 7.5px 0;
 }
 
-.fusion-swimmingly-left-vertical-title .inner {
+.fusion-dlatino-left-vertical-title .inner {
   background-color: white;
 }
 
-.fusion-swimmingly-left-vertical-title h2.title {
+.fusion-dlatino-left-vertical-title h2.title {
   background-color: #93908a;
   padding: 7.5px;
   text-align: center;

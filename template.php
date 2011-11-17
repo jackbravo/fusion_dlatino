@@ -1,6 +1,6 @@
 <?php
 
-function fusion_swimmingly_tablesort_indicator($style) {
+function fusion_dlatino_tablesort_indicator($style) {
   if ($style == "asc") {
     return '<span class="desc">click to toggle sort</span>';
   }
@@ -9,7 +9,7 @@ function fusion_swimmingly_tablesort_indicator($style) {
   }
 }
 
-function fusion_swimmingly_grid_block($element, $name, $classes='') {
+function fusion_dlatino_grid_block($element, $name, $classes='') {
   $output = '';
   if ($element) {
     $output .= '<div id="' . $name . '" class="' . $name . ' '. $classes .' block">' . "\n";
