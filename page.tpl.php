@@ -30,6 +30,7 @@
 
       <!-- header-top row: width = grid_width -->
       <?php print theme('grid_row', $header_top, 'header-top', 'full-width', $grid_width); ?>
+      <div id="navigation" class="navigation full-width"><div id="navigation-inner" class="navigation-inner row clearfix <?php print $grid_width; ?>">  <?php print theme('grid_block', $primary_links_tree, 'primary-menu', 'sf-navbar'); ?><?php print theme('grid_block', $search_box, 'search-box'); ?></div></div><!--/#navigation-->
 
       <!-- header-group row: width = grid_width -->
       <div id="header-group-wrapper" class="header-group-wrapper full-width">

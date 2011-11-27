@@ -183,10 +183,6 @@ body {
   border-left: 1px solid white;
 }
 
-.navigation-inner {
-  background-color: #497e99;
-}
-
 /*Drupal page elements styles
 /-------------------------------------------------------------- */
 /*override Fusion gutters with $margin-base*/
@@ -272,27 +268,23 @@ body {
 }
 
 /*primary navigation*/
-.block.primary-menu {
-  margin: 0;
-}
-
 .navigation {
+  height:55px;
+  background-image: url(../images/bg_menu.jpg);
+  background-position: center center;
   position: absolute;
   z-index: 9;
   overflow: visible;
-  margin-top: 30px;
+  text-align: right;
 }
 
 .navigation-inner {
-  box-shadow: 0px 2px 2px rgba(0, 0, 0, 0.3);
-  -webkit-box-shadow: 0px 2px 2px rgba(0, 0, 0, 0.3);
-  -moz-box-shadow: 0px 2px 2px rgba(0, 0, 0, 0.3);
-  border-bottom: 1px solid #396276;
   overflow: visible;
 }
 
 .primary-menu ul.menu {
   margin: 0;
+  float: right;
 }
 .primary-menu ul.menu :after {
   clear: both;
@@ -303,21 +295,27 @@ body {
 }
 
 .primary-menu ul.menu li a {
+  text-align: center;
+  border-right: 1px solid #B2B4B3;
+  font-family: helvetica;
   font-size: 16.8px;
   line-height: 15px;
-  color: #f0efed;
-  padding: 7.5px 15px;
-  margin-top: 2px;
-  margin-right: 1px;
+  color: #72A3C3;
+  padding: 20px 0px;
   position: relative;
   z-index: 2;
+  width:140px;
+}
+
+.primary-menu ul.menu li:hover {
+  background: url(../images/bg_menu_over.jpg) repeat center center;
 }
 
 .primary-menu ul.menu li a:hover,
 .primary-menu ul.menu li a.active,
 .primary-menu ul.menu li.active-trail > a {
-  background-color: rgba(255, 255, 255, 0.95);
-  color: #497e99;
+  color: #B7496E;
+  background: url(../images/b_starblock.png)  10px 17px no-repeat;
 }
 
 .primary-menu ul.sf-menu .active-trail ul.menu,
