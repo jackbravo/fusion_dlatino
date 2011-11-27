@@ -62,7 +62,6 @@
           </div><!-- /header-group-inner -->
         </div><!-- /header-group -->
       </div><!-- /header-group-wrapper -->
-          <div id="navigation" class="navigation full-width"><div id="navigation-inner" class="navigation-inner row clearfix <?php print $grid_width; ?>">  <?php print theme('grid_block', $primary_links_tree, 'primary-menu', 'sf-navbar'); ?><?php print theme('grid_block', $search_box, 'search-box'); ?></div></div><!--/#navigation-->
       <!-- main row: width = grid_width -->
       <div id="main-wrapper" class="main-wrapper full-width">
         <div id="main" class="main row <?php print $grid_width; ?>">
