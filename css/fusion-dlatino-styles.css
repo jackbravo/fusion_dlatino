@@ -194,7 +194,7 @@ body {
 /*Header*/
 #header-site-info {
   max-width: 50%;
-  margin: 15px 0;
+  margin: 0 0 15px;
 }
 
 #header-site-info #logo,
@@ -273,7 +273,6 @@ body {
   background-image: url(../images/bg_menu.jpg);
   background-position: center center;
   position: absolute;
-  z-index: 9;
   overflow: visible;
   text-align: right;
 }
