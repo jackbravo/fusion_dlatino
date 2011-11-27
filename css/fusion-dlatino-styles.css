@@ -137,15 +137,11 @@ code {
 /-------------------------------------------------------------- */
 html,
 body {
-  background-color: #ccc9c1;
+  background-color: #1370A9;
 }
 
 .page {
-  background-color: transparent;
-  background-image: -webkit-gradient(linear, 0 140, 0 360, from(rgba(204, 201, 193, 0)), to(#ccc9c1));
-  background-image: -moz-linear-gradient(center 0, rgba(204, 201, 193, 0) 10%, #ccc9c1 50%);
-  max-height: 600px;
-  overflow: visible;
+  background: url("../images/dif_bg.png") repeat-x scroll center top #1370A9;
 }
 
 .main-inner {
