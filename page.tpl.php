@@ -59,7 +59,15 @@
             </div><!-- /header-site-info -->
             <?php endif; ?>
 <?php print theme('grid_block', theme('links', $secondary_links), 'secondary-menu'); ?>
-            <?php print $header; ?>
+            <div id="header-blocks">
+                <div id="header-blocks-inner">
+                    <div class="social-buttons">
+                        <a href="http://www.facebook.com/pages/Drupal-Latino/268084229893344" class="btn-contact contact-facebook active" title="Drupal Latino en Facebook"><img src="/sites/all/themes/fusion_dlatino/images/icon_facebook.png"></a>
+                        <a href="https://twitter.com/#%21/drupal_latino" class="btn-contact contact-twitter" title="Drupal Latino en Twitter"><img src="/sites/all/themes/fusion_dlatino/images/icon_twitter.png"></a>
+                    </div>
+                    <?php print $header; ?>
+                </div>
+            </div>
           </div><!-- /header-group-inner -->
         </div><!-- /header-group -->
       </div><!-- /header-group-wrapper -->

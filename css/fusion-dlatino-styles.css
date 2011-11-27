@@ -206,6 +206,8 @@ body {
 #header-site-info {
   max-width: 50%;
   margin: 0 0 15px;
+  position: relative;
+  z-index: 9;
 }
 
 #header-site-info #logo,
@@ -345,6 +347,20 @@ body {
 .primary-menu ul.sf-menu ul.menu li a:hover {
   background-color: #ddd;
   background-image: none;
+}
+
+#header-blocks {
+  margin-top: 90px;
+  position: absolute;
+  min-height: 177px;
+  width: 960px;
+  background-image: url("../images/banners/contacto_head.jpg");
+  background-position: right center;
+  z-index: 0;
+}
+
+#header-blocks-inner {
+  padding-left: 230px;
 }
 
 /*page content layout elements*/
