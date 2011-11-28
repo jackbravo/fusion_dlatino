@@ -1114,3 +1114,10 @@ body.fusion-dlatino-crowd-background {
   padding: 7.5px;
   text-align: center;
 }
+
+.social-buttons {
+  float: right;
+  height: 22px;
+  margin: -22px 22px;
+  overflow: hidden;
+}
