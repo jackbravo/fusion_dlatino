@@ -13,10 +13,10 @@ body {
 }
 
 h1 {
-  color: #bb4793;
-  font-family: "UbuntuTitling", Helvetica, Arial, sans-serif;
-  font-weight: bold;
-  font-size: 35px;
+  color: #DD4F85;
+  font-family: 'Bevan', 'Arial Black', Gadget, sans-serif serif;
+  font-weight: normal;
+  font-size: 30px;
   line-height: 39.2px;
   margin-bottom: 0px;
   margin-top: 15px;
@@ -78,6 +78,7 @@ h4 {
 /** Introducción **/
 .introduccion h2.pane-title {
   font-size:25px;
+  font-weight: normal;
   padding-bottom:15px;
   background-image: none;
   font-family: 'Bevan', 'Arial Black', Gadget, sans-serif serif;
