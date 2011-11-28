@@ -365,6 +365,11 @@ body {
   z-index: 0;
 }
 
+.front #header-blocks {
+  background-image: url("../images/banners/banner_home.jpg");
+  min-height: 300px;
+}
+
 #header-blocks-inner {
   padding-left: 230px;
 }
@@ -375,12 +380,20 @@ body {
   top: -35px;
 }
 
+.front #main-wrapper {
+  top: 60px;
+}
+
 .main-inner {
   border-top: 1px solid rgba(74, 72, 68, 0.3);
 }
 
 .main-group {
   padding-top: 35px;
+}
+
+.front .main-group {
+  padding-top: 0;
 }
 
 .main-group-inner {
