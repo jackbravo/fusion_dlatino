@@ -143,14 +143,32 @@
       <!-- footer row: width = grid_width -->
       <?php print theme('grid_row', $footer, 'footer', 'full-width', $grid_width); ?>
 
-      <!-- footer-message row: width = grid_width -->
-      <div id="footer-message-wrapper" class="footer-message-wrapper full-width">
-        <div id="footer-message" class="footer-message row <?php print $grid_width; ?>">
-          <div id="footer-message-inner" class="footer-message-inner inner clearfix">
-            <?php print theme('grid_block', $footer_message, 'footer-message-text'); ?>
-          </div><!-- /footer-message-inner -->
-        </div><!-- /footer-message -->
-      </div><!-- /footer-message-wrapper -->
+      <div class="footer_content full-width">
+         <div class="footer row grid16-16">
+            <?php print $footer; ?>
+            <div id="links">
+              <div id="site-map" class="grid16-5 block">
+                <h3><?php print t('Site Map');?></h3>
+                <?php print i18nmenu_translated_tree('menu-site-map'); ?>
+              </div>
+              <div id="links" class="grid16-5 block">
+                <h3><?php print t('Links');?></h3>
+                <?php  print i18nmenu_translated_tree('menu-links');?>
+              </div>
+              <div id="contact" class="grid16-6 block">
+                <h3><?php print t('Contact');?></h3>
+                <?php print i18nmenu_translated_tree('menu-contact');?>
+              </div>
+            </div>
+            <div class="clear"></div>
+            <div id="copyright">
+              <span>DrupalSummitLatino copyright 2011</span>
+            </div>
+            <div id="footer-message">
+              <?php echo $footer_message; ?>
+            </div>
+        </div>
+      </div> 
 
     </div><!-- /page-inner -->
   </div><!-- /page -->

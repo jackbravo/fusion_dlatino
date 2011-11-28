@@ -379,9 +379,15 @@ body {
   position: relative;
   top: -35px;
 }
+.footer_content {
+  margin-top: 55px;
+}
 
 .front #main-wrapper {
   top: 60px;
+}
+.front .footer_content {
+  margin-top: 80px;
 }
 
 .main-inner {
@@ -1213,3 +1219,79 @@ body.fusion-dlatino-crowd-background {
   background: url('../images/btn_volunt.png') 0 0px no-repeat;
 }
 
+/* Footer */
+.footer_content {
+  background: #0C4A6F;
+  width:100%;
+  padding-bottom: 10px;
+}
+
+.footer {
+	font-size: 15px;
+  padding-top:20px;
+}
+
+.footer ul {
+  margin-left: 10px;
+}
+
+.footer ul li {
+  list-style-type: none;
+  list-style-image: none;
+  margin-left: 0px;
+  padding-left: 0px;
+  margin:10px 0;
+
+}
+
+.footer h3,
+.footer ul li a{ 
+  text-decoration:none;
+  color:#93C8F0;
+}
+
+.footer h3{
+  font-size:18px;
+  display:block;
+  border-bottom:1px solid #93C8F0;
+  margin-top:10px;
+  padding: 5px 10px;
+}
+
+.footer .contact-facebook {
+	background: url('../images/icon_facebook.png') 0 -22px no-repeat;
+  padding-left:30px;
+  height:18px;
+  display:block;
+  padding-top:5px;
+}
+
+.footer .contact-facebook:hover {
+	background: url('../images/icon_facebook.png') 0 0 no-repeat;
+  height:18px;
+}
+
+.footer .contact-twitter {
+	background: url('../images/icon_twitter.png') 0 -22px no-repeat;
+  padding-left:30px;
+  height:18px;
+  display:block;
+  padding-top:5px;
+}
+
+.footer .contact-twitter:hover {
+	background: url('../images/icon_twitter.png') 0 0 no-repeat;
+  height:18px;
+}
+
+
+#copyright {
+  margin: 30px 0 10px 0;
+}
+
+#copyright span, #footer-message {
+  margin: auto;
+  text-align:center;
+  display:block;
+  color:#93C8F0;
+}
