@@ -10,6 +10,7 @@ body {
   font-size: 14px;
   line-height: 15.4px;
   vertical-align: middle;
+  font-family: Deja Vu Sans, Arial, Helvetica, sans-serif;
 }
 
 h1 {
@@ -317,12 +318,13 @@ body {
 .primary-menu ul.menu li a {
   text-align: center;
   border-right: 1px solid #B2B4B3;
-  font-family: helvetica;
-  font-size: 16.8px;
+  font-family: Deja Vu Sans, Arial, Helvetica, sans-serif;
+  font-size: 16px;
   line-height: 15px;
   color: #72A3C3;
   padding: 20px 0px;
   position: relative;
+  text-transform: lowercase;
   z-index: 2;
   width:140px;
 }
@@ -350,6 +352,11 @@ body {
   color: #497e99;
   background-color: #fff;
   border-bottom: 1px solid #B2B4B3;
+}
+
+.primary-menu ul.sf-menu ul.menu li a.active {
+  background-image: none;
+  color: #B7496E;
 }
 
 .primary-menu ul.sf-menu ul.menu li a:hover {
@@ -509,7 +516,7 @@ div.content-messages-inner div.messages {
 /-------------------------------------------------------------- */
 div.form-item,
 div.views-exposed-widget {
-  max-width: 400px;
+  max-width: 600px;
   margin: 0 15px 15px 0;
 }
 
