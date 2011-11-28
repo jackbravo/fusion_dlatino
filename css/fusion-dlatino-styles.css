@@ -501,6 +501,14 @@ h1.title + #content-content {
 }
 
 /*Drupal system messages*/
+#content-top .block {
+  margin: 15px 0 0;
+}
+
+#content-top .messages.error {
+  margin-bottom: 0;
+}
+
 .help, div.content-help-inner div.help,
 div.content-messages-inner div.messages {
   border-style: dotted;

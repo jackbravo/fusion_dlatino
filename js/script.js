@@ -3,10 +3,8 @@ Drupal.behaviors.fusionSuperfish = function (context) {
     hoverClass:    'sfHover',
     pathClass:     'active-trail', 
     pathLevels:    0, 
-    dropShadows:   false,               // completely disable drop shadows by setting this to false 
     disableHI:     false,
-    animation:     {height: 'show'},
-    speend:        'fast'              // set to true to disable hoverIntent detection  
+    speed:         'fast'              // set to true to disable hoverIntent detection  
   }).supposition();
 };
 
