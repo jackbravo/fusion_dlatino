@@ -1,0 +1,44 @@
+.front #header-blocks {
+  background-image: url("../../images/banners/banner_home.jpg");
+  min-height: 300px;
+}
+
+.front #main-wrapper {
+  top: 60px;
+}
+.front .footer_content {
+  margin-top: 80px;
+}
+
+.front .main-group {
+  padding-top: 0;
+}
+
+/*
+.front .main-inner {
+  background-color: inherit;
+  border: none;
+}
+
+.panel-pane {
+  background-color: #fff;
+  padding: 15px 10px;
+  margin: 15px -10px;
+}
+*/
+
+.clear {
+  clear:both;
+}
+
+.panel-sidebar-left {
+  float:left;
+}
+
+.panel-sidebar-right {
+  float:left;
+}
+
+.panel-sponsors {
+  clear:both;
+}
