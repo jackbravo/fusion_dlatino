@@ -145,10 +145,7 @@ body {
 }
 
 .main-inner {
-  background-color: rgba(255, 255, 255, 0.7);
-  border-radius: 8px;
-  -moz-border-radius: 8px;
-  -webkit-border-radius: 8px;
+  background-color: #fff;
 }
 
 .sidebars-both-last .sidebar-first-inner,
@@ -205,7 +202,7 @@ body {
 /*Header*/
 #header-site-info {
   max-width: 50%;
-  margin: 0 0 15px;
+  margin: 0;
   position: relative;
   z-index: 9;
 }
@@ -364,17 +361,20 @@ body {
 }
 
 /*page content layout elements*/
+#main-wrapper {
+  position: relative;
+  top: -35px;
+}
+
 .main-inner {
-  margin-top: 15px;
-  padding-top: 45px;
+  border-top: 1px solid rgba(74, 72, 68, 0.3);
 }
 
 .main-group {
-  border-top: 35px solid rgba(255, 255, 255, 0.6);
+  padding-top: 35px;
 }
 
 .main-group-inner {
-  border-top: 1px solid rgba(74, 72, 68, 0.3);
 }
 
 .sidebar-first-inner {
