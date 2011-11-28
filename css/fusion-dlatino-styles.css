@@ -35,15 +35,6 @@ h2.title.block-title {
   margin-bottom: 15px;
 }
 
-/**
- * Hide elements visually, but keep them available for screen-readers.
- *
- * Used for information required for screen-reader users to understand and use
- * the site where visual display is undesirable. Information provided in this
- * manner should be kept concise, to avoid unnecessary burden on the user. Must
- * not be used for focusable elements (such as links and form elements) as this
- * causes issues for keyboard only or voice recognition users.
- */
 .element-invisible {
   height: 0;
   overflow: hidden;
@@ -56,6 +47,16 @@ h2.title {
   line-height: 23.8px;
   margin-top: 1px;
   margin-bottom: 3.75px;
+}
+
+#block-menu-menu-involved h2,
+#node-29 .field-field-location .field-label,
+h2.pane-title{
+  font-size:20px;
+  font-family: helvetica; 
+  padding-left:20px;
+  background: url(../images/b_starblock.png) no-repeat;
+  font-weight:bold;
 }
 
 h3 {
@@ -85,13 +86,13 @@ h4 {
 
 a,
 a:link {
-  color: #497e99;
+  color: #66AEDE;
   text-decoration: underline;
 }
 
 .title a,
 .title a:link {
-  color: #497e99;
+  color: #66AEDE;
   text-decoration: none;
 }
 
@@ -1294,4 +1295,20 @@ body.fusion-dlatino-crowd-background {
   text-align:center;
   display:block;
   color:#93C8F0;
+}
+
+/** Noticias **/
+.noticias .pane-content .node {
+  border-bottom: 1px solid #B8486E;  
+  padding: 0px 0 20px 0;
+  margin: 10px;
+}
+
+.noticias .node h2 a {
+  text-decoration: none; 
+	color: #DD4F85;
+  font-size: 20px;
+  font-family: helvetica;
+  padding: 10px 0;
+  display:block;
 }
