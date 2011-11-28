@@ -11,6 +11,8 @@ stylesheets[all][] = css/superfish-navbar.css
 
 scripts[] = js/script.js
 
+plugins[panels][layouts] = layouts
+
 regions[sidebar_first] = sidebar first
 regions[sidebar_last] = sidebar last
 regions[header_top] = header top
