@@ -2,7 +2,7 @@ Drupal.behaviors.fusionSuperfish = function (context) {
   $("#primary-menu ul.sf-menu").superfish({
     hoverClass:    'sfHover',
     pathClass:     'active-trail', 
-    pathLevels:    1, 
+    pathLevels:    0, 
     dropShadows:   false,               // completely disable drop shadows by setting this to false 
     disableHI:     false,
     animation:     {height: 'show'},

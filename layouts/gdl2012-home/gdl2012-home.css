@@ -1,0 +1,15 @@
+.clear {
+  clear:both;
+}
+
+.panel-sidebar-left {
+  float:left;
+}
+
+.panel-sidebar-right {
+  float:left;
+}
+
+.panel-sponsors {
+  clear:both;
+}

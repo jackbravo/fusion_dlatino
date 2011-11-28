@@ -20,3 +20,35 @@ function fusion_dlatino_grid_block($element, $name, $classes='') {
   }
   return $output;
 }
+
+function fusion_dlatino_menu_item_link($link) {
+  
+  if (empty($link['localized_options'])) {
+    $link['localized_options'] = array();
+  }
+
+  //El menu-involved  debe de tener alguna clase para
+  //hacer referencia a sus iconos
+  if($link['menu_name'] == "menu-involved") {
+    $class = strtolower(preg_replace('/[^a-z0-9]/i','',$link['link_title']));
+    $link['localized_options'] = array(
+      'attributes' => array(
+        'class'   =>  'btn-participa participa-'.$class
+      )
+    );
+  }
+
+
+  if($link['menu_name'] == "menu-contact") {
+    $class = strtolower($link['link_title']);
+
+    $link['localized_options'] = array(
+      'attributes'  => array(
+        'class'   =>  'btn-contact contact-'.$class
+      )
+    );
+  }
+
+  return l($link['title'], $link['href'], $link['localized_options']);
+}
+

@@ -37,6 +37,11 @@
 .grid16-indent-14 {margin-left: 840px;}
 .grid16-indent-15 {margin-left: 900px;}
 
+.alpha { margin-left: -15px; }
+.alpha .inside { padding: 0 15px; }
+.omega { margin-right: -15px; }
+.omega .inside { padding: 0 15px; }
+
 /* gutters (2 x margin) */
 .gutter {
   margin-left: 15px;
