@@ -26,7 +26,7 @@ h1 {
 h2,
 h2.block-title,
 h2.title.block-title {
-  color: #4a4844;
+  color: #DD4F85;
   font-family: "Ubuntu", Arial, Helvetica, sans-serif;
   font-weight: normal;
   font-size: 16.8px;
@@ -72,6 +72,15 @@ h4 {
   font-family: "Ubuntu", Arial, Helvetica, sans-serif;
   font-weight: normal;
   font-size: 14px;
+}
+
+/** Introducción **/
+.introduccion h2.pane-title {
+  font-size:25px;
+  padding-bottom:15px;
+  background-image: none;
+  font-family: 'Bevan', 'Arial Black', Gadget, sans-serif serif;
+  padding-left:0px;
 }
 
 a,
@@ -1121,3 +1130,73 @@ body.fusion-dlatino-crowd-background {
   margin: -22px 22px;
   overflow: hidden;
 }
+
+.participa h2 {
+  background: url(../images/b_starblock.png) 1px 1px no-repeat;
+  padding-left:20px;
+  font-family: Helvetica;
+  font-size:20px;
+  margin-bottom: 10px;
+}
+
+#block-menu-menu-involved ul li,
+.participa ul li {
+  list-style-image: none;
+  list-style-type: none;
+  margin: 0px;
+}
+
+#block-menu-menu-involved li a,
+.participa li a {
+  color: #20719C;
+  text-decoration:none;
+  font-weight: bold;
+}
+
+#block-menu-menu-involved .btn-participa,
+.participa .btn-participa { 
+  display:block;
+  padding: 27px 10px 27px 90px;
+  font-size:16px;
+}
+
+#block-menu-menu-involved .participa-patrocinadores,
+.participa .participa-patrocinadores {
+  background: url('../images/btn_patroc.png') 0 -80px no-repeat;
+}
+
+#block-menu-menu-involved .participa-patrocinadores:hover,
+.participa .participa-patrocinadores:hover {
+  background: url('../images/btn_patroc.png') 0 0px no-repeat;
+}
+
+#block-menu-menu-involved .participa-proponerunasesin,
+.participa .participa-proponerunasesin {
+  background: url('../images/btn_sesion.png') 0 -80px no-repeat;
+}
+
+#block-menu-menu-involved .participa-proponerunasesin:hover,
+.participa .participa-proponerunasesin:hover {
+  background: url('../images/btn_sesion.png') 0 0px no-repeat;
+}
+
+#block-menu-menu-involved .participa-regstrate,
+.participa .participa-regstrate {
+  background: url('../images/btn_regist.png') 0 -80px no-repeat;
+}
+
+#block-menu-menu-involved .participa-regstrate:hover,
+.participa .participa-regstrate:hover {
+  background: url('../images/btn_regist.png') 0 0px no-repeat;
+}
+
+#block-menu-menu-involved .participa-voluntarios,
+.participa .participa-voluntarios {
+  background: url('../images/btn_volunt.png') 0 -80px no-repeat;
+}
+
+#block-menu-menu-involved .participa-voluntarios:hover,
+.participa .participa-voluntarios:hover {
+  background: url('../images/btn_volunt.png') 0 0px no-repeat;
+}
+
