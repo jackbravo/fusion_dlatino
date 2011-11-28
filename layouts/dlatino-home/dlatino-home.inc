@@ -3,11 +3,11 @@
 
 // Plugin definition
 $plugin = array(
-  'title' => t('gdl2012 home'),
+  'title' => t('dlatino home'),
   'category' => t('Columns: 2'),
-  'icon' => 'gdl2012-home.png',
-  'theme' => 'gdl2012-home',
-  'css' => 'gdl2012-home.css',
+  'icon' => 'dlatino-home.png',
+  'theme' => 'dlatino-home',
+  'css' => 'dlatino-home.css',
   'panels' => array(
     'left'        => t('Left side'),
     'right'       => t('Right side'),
