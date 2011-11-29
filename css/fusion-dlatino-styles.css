@@ -392,11 +392,14 @@ body {
 
 /*page content layout elements*/
 #main-wrapper {
+  background: url("../images/bg_dec.png") no-repeat scroll right bottom #1370A9;
   position: relative;
   top: -35px;
+  padding-bottom: 25px;
 }
 .footer_content {
-  margin-top: 55px;
+  position: relative;
+  margin-top: -35px;
 }
 
 .main-inner {

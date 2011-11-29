@@ -7,7 +7,8 @@
   top: 60px;
 }
 .front .footer_content {
-  margin-top: 80px;
+  position: relative;
+  margin-top: 60px;
 }
 
 .front .main-group {
