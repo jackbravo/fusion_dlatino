@@ -374,6 +374,18 @@ body {
   z-index: 0;
 }
 
+.banner-lugar #header-blocks {
+  background-image: url("../images/banners/lugar_head.jpg");
+}
+
+.banner-sesion #header-blocks {
+  background-image: url("../images/banners/sesiones_head.jpg");
+}
+
+.banner-acerca-de #header-blocks {
+  background-image: url("../images/banners/acercade_head.jpg");
+}
+
 #header-blocks-inner {
   padding-left: 230px;
 }

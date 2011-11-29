@@ -21,7 +21,7 @@
   <?php print $scripts; ?>
 </head>
 
-<body id="<?php print $body_id; ?>" class="<?php print $body_classes; ?> <?php print $skinr; ?>">
+<body id="<?php print $body_id; ?>" class="<?php print $body_classes; ?> <?php print $skinr; ?> <?php print $banner; ?>">
   <div id="page" class="page">
     <div id="page-inner" class="page-inner">
       <div id="skip">

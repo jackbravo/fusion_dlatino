@@ -21,6 +21,21 @@ function fusion_dlatino_grid_block($element, $name, $classes='') {
   return $output;
 }
 
+function fusion_dlatino_preprocess_page(&$vars) {
+
+  //determinando el banner por sección
+  $path = drupal_get_path('theme','fusion_dlatino');
+
+  $alias = drupal_get_path_alias($_GET['q']);
+  if (strpos($alias, 'acerca-de') !== false) {
+    $vars['banner'] = 'banner-acerca-de';
+  } else if (strpos($alias, 'program') !== false) {
+    $vars['banner'] = 'banner-sesion';
+  } else if (strpos($alias, 'lugar') !== false) {
+    $vars['banner'] = 'banner-lugar';
+  }
+}
+
 function fusion_dlatino_menu_item_link($link) {
   
   if (empty($link['localized_options'])) {
