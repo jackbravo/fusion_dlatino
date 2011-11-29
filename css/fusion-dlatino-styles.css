@@ -153,7 +153,7 @@ body {
 }
 
 .page {
-  background: url("../images/dif_bg.png") repeat-x scroll center top #1370A9;
+  background: url("../images/dif_bg.png") repeat-x scroll center 55px #1370A9;
 }
 
 .main-inner {
@@ -392,7 +392,7 @@ body {
 
 /*page content layout elements*/
 #main-wrapper {
-  background: url("../images/bg_dec.png") no-repeat scroll right bottom #1370A9;
+  background: url("../images/bg_dec.png") no-repeat scroll right bottom transparent;
   position: relative;
   top: -35px;
   padding-bottom: 25px;
