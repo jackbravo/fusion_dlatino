@@ -44,7 +44,22 @@
   clear:both;
 }
 
+/** Introduction **/
+#gdl2012-home .introduccion {
+  border-bottom: 1px solid #B8486E;
+  margin: 10px 0;
+  padding: 0 0 20px;	
+}
+
+#gdl2012-home .noticias {
+  border-top: 1px solid #B8486E;
+  margin: 20px 0 0;
+}
+
+
+
 /** Sessions block **/
+
 .view-sessions .views-row {
   display: block;
   float: left;
@@ -60,22 +75,34 @@
   margin: 0 10px;
 }
 
+.view-sessions .views-field-picture img {
+  border: 1px solid #ccc;
+  /*height: 85px;*/	
+}
+
 .view-sessions .views-field-title {
-  margin-bottom: 10px;
+  margin-bottom: 5px;
 }
 
 .view-sessions .views-field-title a {
-  font-size: 1.1em;
+  font-size: 0.9em;
   color: #20719C;
   font-weight: bold;
   text-decoration: none;
 }
 
 .view-sessions .views-field-field-speakers-uid a {
+  font-size: 0.85em;
   color: #4A4844;
   font-weight: bold;
   text-decoration: none;
 }
+
+
+.view-sessions .views-field-value {
+  font-size: 0.85em;
+}
+
 
 #views_slideshow_singleframe_playpause_sessions-block_3 {
   display: none;
