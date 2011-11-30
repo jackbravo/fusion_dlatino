@@ -62,8 +62,8 @@
             <div id="header-blocks">
                 <div id="header-blocks-inner">
                     <div class="social-buttons">
-                        <a href="http://www.facebook.com/pages/Drupal-Latino/268084229893344" class="btn-contact contact-facebook active" title="Drupal Latino en Facebook"><img src="/sites/all/themes/fusion_dlatino/images/icon_facebook.png"></a>
-                        <a href="https://twitter.com/#%21/drupal_latino" class="btn-contact contact-twitter" title="Drupal Latino en Twitter"><img src="/sites/all/themes/fusion_dlatino/images/icon_twitter.png"></a>
+                        <a href="http://www.facebook.com/pages/Drupal-Latino/268084229893344" class="btn-contact contact-facebook active" title="Drupal Latino en Facebook"><img src="<?php echo drupal_get_path('theme', 'fusion_dlatino'); ?>/images/icon_facebook.png"></a>
+                        <a href="https://twitter.com/#%21/drupal_latino" class="btn-contact contact-twitter" title="Drupal Latino en Twitter"><img src="<?php echo drupal_get_path('theme', 'fusion_dlatino'); ?>/images/icon_twitter.png"></a>
                     </div>
                     <?php print $header; ?>
                 </div>
