@@ -568,6 +568,10 @@ textarea:focus {
   background-color: white;
 }
 
+fieldset {
+  border: 1px solid #ccc;
+}
+
 .fusion-dlatino-colors-pink input.form-submit {
   display: block;
   font-size: 16px;
