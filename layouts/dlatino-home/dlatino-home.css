@@ -92,6 +92,7 @@
   text-indent: -9999px;
   position: absolute;
   top: 70px;
+  overflow: hidden;
 }
 
 #views_slideshow_singleframe_prev_sessions-block_3 {
