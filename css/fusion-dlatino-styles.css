@@ -540,7 +540,7 @@ div.content-messages-inner div.messages {
 div.form-item,
 div.views-exposed-widget {
   max-width: 600px;
-  margin: 0 15px 15px 0;
+  margin: 0 10px 15px 0;
 }
 
 .form-item label,
@@ -789,6 +789,10 @@ table tr td:last-child {
   border-right: none;
 }
 
+.more-link {
+  font-weight: bold;
+}
+
 /*COD Feature styles
 /-------------------------------------------------------------- */
 /*Attendees lists*/
@@ -823,7 +827,28 @@ table tr td:last-child {
 
 .view-attendees table.views-view-grid tr td .picture a {
   display: block;
-  border: 4px solid rgba(147, 144, 138, 0.6);
+}
+
+.view-attendees table.views-view-grid tr td .picture a img {
+  border: 1px solid #ccc;
+  display: block;
+  margin: 0 auto;
+  text-align: center;
+}
+
+.pane-content .view-attendees .views-field-value-1 a,
+#view-id-attendees-page_1 .views-field-value-5 a {
+  font-size: 0.85em;
+  color: #4A4844;
+  font-weight: bold;
+  text-decoration: none;
+}
+
+.pane-content .view-attendees .views-field-value-2 a,
+#view-id-attendees-page_1 .views-field-value-1 a,
+#view-id-attendees-page_1 .views-field-value-3 {
+  font-size: 0.85em;
+  text-decoration: none;
 }
 
 /*remove link borders in sidebars*/
