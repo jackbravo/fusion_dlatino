@@ -845,6 +845,7 @@ table tr td:last-child {
 }
 
 .pane-content .view-attendees .views-field-value-2 a,
+.pane-content .view-attendees .views-field-value-2,
 #view-id-attendees-page_1 .views-field-value-1 a,
 #view-id-attendees-page_1 .views-field-value-3 {
   font-size: 0.85em;
